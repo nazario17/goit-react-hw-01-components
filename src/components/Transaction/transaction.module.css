@@ -1,0 +1,27 @@
+.transaction_history {
+  border: 1px solid black;
+  border-radius: 5px;
+  box-shadow: 3px 3px 6px 0px rgba(0, 0, 0, 0.75);
+  width: 600px;
+}
+thead {
+  background-color: skyblue;
+  color: aliceblue;
+  text-transform: uppercase;
+}
+table th {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+td {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.evenRow {
+  text-align: center;
+  background-color: blueviolet;
+}
+.oddRow {
+  text-align: center;
+  background-color: greenyellow;
+}
